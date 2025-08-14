@@ -1,6 +1,6 @@
 # Custom Login Form Design
 
-This project contains a modern and visually appealing login form created with pure HTML and CSS. The design is inspired by the clubhouse ui design, featuring a clean layout, social media login options, and a distinct background.
+This project contains a modern and visually appealing login form created with pure HTML and CSS. The design is inspired by the login ui design, featuring a clean layout, social media login options, and a distinct background.
 
 ## Features
 
