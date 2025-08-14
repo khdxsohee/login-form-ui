@@ -13,7 +13,7 @@ This project contains a modern and visually appealing login form created with pu
 
 Click the button below to see the project live!
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-blue?style=for-the-badge)](https://khalid-randhawa.web.app/apps-projects/Login-Project-2/index.html)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-blue?style=for-the-badge)](https://khalid-randhawa.web.app/apps-projects/Login-Project/index2.html)
 
 ## Getting Started
 
